@@ -9,6 +9,7 @@
   "author": "Andres Sanabria",
   "license": "ISC",
   "dependencies": {
+    "exceljs": "^4.1.1",
     "lighthouse": "^6.2.0"
   }
 }
